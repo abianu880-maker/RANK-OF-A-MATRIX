@@ -11,10 +11,11 @@ To write a python program to find the rank of a matrix
 ### Step 4: End the program
 ## Program:
 <img width="1244" height="656" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/717de172-2317-4922-ba95-6e51e1e77268" />
-<img width="1345" height="250" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/365b22d8-d3dd-48f8-b03c-96fcea921e81" />
+
 
 
 ## Output:
+<img width="1345" height="250" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/365b22d8-d3dd-48f8-b03c-96fcea921e81" />
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
